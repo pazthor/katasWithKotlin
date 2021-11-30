@@ -140,3 +140,6 @@ gradle-app.setting
 
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij+all,gradle
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew.bat
